@@ -213,3 +213,4 @@ def login(config):
   print(colored(f"Welcome to OofOS, {payload['username']}.", "green"))
 
   return username, password
+

@@ -142,7 +142,7 @@ def help(config):
 
   info = f"""
 ================ HELP ================
-ZealousOS v{version} - Listing Commands
+OofOS v{version} - Listing Commands
 
 COMMAND     |     ALIASES
             |
